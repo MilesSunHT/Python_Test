@@ -1,4 +1,4 @@
-'''------------- Python Exmaple -------------'''
+'''------------- Python Exmaple! -------------'''
 '''
     constructor
     paramter
